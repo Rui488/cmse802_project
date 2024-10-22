@@ -1,0 +1,155 @@
+
+Parameter grid: {'n_estimators': range(10, 210, 10), 'learning_rate': [0.1], 'max_depth': range(1, 21, 2), 'min_child_weight': range(1, 12, 2)}
+CV: 10
+Total number of fits: 12000
+Start time: 2024-10-19 12:21:37.989528
+
+Parameter grid: {'n_estimators': range(10, 210, 10), 'learning_rate': [0.1], 'max_depth': range(1, 21, 2), 'min_child_weight': range(1, 12, 2)}
+CV: 10
+Total number of fits: 12000
+Start time: 2024-10-19 12:22:10.476760
+
+Parameter grid: {'n_estimators': range(10, 210, 10), 'learning_rate': [0.1], 'max_depth': range(1, 21, 2), 'min_child_weight': range(1, 12, 2)}
+CV: 10
+Total number of fits: 12000
+Start time: 2024-10-19 12:22:39.598923
+
+Parameter grid: {'n_estimators': range(10, 210, 10), 'learning_rate': [0.1], 'max_depth': range(1, 21, 2), 'min_child_weight': range(1, 12, 2)}
+CV: 10
+Total number of fits: 12000
+Start time: 2024-10-19 12:32:48.754811
+End time: 2024-10-19 12:43:53.736397
+Total run time: 0:11:04.981586
+Best parameters: {'learning_rate': 0.1, 'max_depth': 7, 'min_child_weight': 9, 'n_estimators': 60}
+Best score: 0.036119
+
+Parameter grid: {'n_estimators': range(10, 210, 10), 'learning_rate': [0.1], 'max_depth': range(1, 21, 2), 'min_child_weight': range(1, 12, 2)}
+CV: 10
+Total number of fits: 12000
+Start time: 2024-10-19 12:55:18.163344
+End time: 2024-10-19 13:11:08.989097
+Total run time: 0:15:50.825753
+Best parameters: {'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 80}
+Best score: 0.370941
+
+Parameter grid: {'n_estimators': range(10, 210, 10), 'learning_rate': [0.1], 'max_depth': range(1, 21, 2), 'min_child_weight': range(1, 12, 2)}
+CV: 10
+Total number of fits: 12000
+Start time: 2024-10-19 13:11:53.257727
+End time: 2024-10-19 13:17:21.895956
+Total run time: 0:05:28.638229
+Best parameters: {'learning_rate': 0.1, 'max_depth': 7, 'min_child_weight': 11, 'n_estimators': 10}
+Best score: 0.301674
+
+Parameter grid: {'n_estimators': range(10, 310, 10), 'learning_rate': [0.1], 'max_depth': range(1, 21, 2), 'min_child_weight': range(1, 12, 2)}
+
+Parameter grid: {'n_estimators': range(10, 310, 10), 'learning_rate': [0.1], 'max_depth': range(1, 21, 2), 'min_child_weight': range(1, 12, 2)}
+CV: 10
+CV: 10
+Total number of fits: 18000
+Total number of fits: 18000
+Start time: 2024-10-19 13:28:16.613091
+Start time: 2024-10-19 13:28:16.613091
+End time: 2024-10-19 13:59:39.964452
+End time: 2024-10-19 13:59:39.964452
+Total run time: 0:31:23.351361
+Total run time: 0:31:23.351361
+Best parameters: {'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 80}
+Best parameters: {'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 80}
+Best score: 0.370941
+Best score: 0.370941
+
+Parameter grid: {'n_estimators': range(70, 91), 'learning_rate': [0.1], 'max_depth': range(1, 6), 'min_child_weight': range(1, 6)}
+
+Parameter grid: {'n_estimators': range(70, 91), 'learning_rate': [0.1], 'max_depth': range(1, 6), 'min_child_weight': range(1, 6)}
+CV: 10
+CV: 10
+Total number of fits: 5250
+Total number of fits: 5250
+Start time: 2024-10-19 14:02:59.289497
+Start time: 2024-10-19 14:02:59.289497
+End time: 2024-10-19 14:08:54.982903
+End time: 2024-10-19 14:08:54.982903
+Total run time: 0:05:55.693406
+Total run time: 0:05:55.693406
+Best parameters: {'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 4, 'n_estimators': 89}
+Best parameters: {'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 4, 'n_estimators': 89}
+Best score: 0.377100
+Best score: 0.377100
+
+Parameter grid: {'n_estimators': [89], 'learning_rate': [0.1], 'max_depth': [3], 'min_child_weight': [4], 'gamma': array([0. , 0.2, 0.4, 0.6, 0.8, 1. ]), 'subsample': array([0.5, 0.6, 0.7, 0.8, 0.9])}
+
+Parameter grid: {'n_estimators': [89], 'learning_rate': [0.1], 'max_depth': [3], 'min_child_weight': [4], 'gamma': array([0. , 0.2, 0.4, 0.6, 0.8, 1. ]), 'subsample': array([0.5, 0.6, 0.7, 0.8, 0.9])}
+CV: 20
+CV: 20
+Total number of fits: 600
+Total number of fits: 600
+Start time: 2024-10-19 14:16:48.636816
+Start time: 2024-10-19 14:16:48.636816
+
+Parameter grid: {'n_estimators': [89], 'learning_rate': [0.1], 'max_depth': [3], 'min_child_weight': [4], 'gamma': array([0. , 0.2, 0.4, 0.6, 0.8, 1. ]), 'subsample': array([0.5, 0.6, 0.7, 0.8, 0.9])}
+CV: 10
+Total number of fits: 300
+Start time: 2024-10-19 14:17:09.638389
+End time: 2024-10-19 14:17:26.230522
+Total run time: 0:00:16.592133
+Best parameters: {'gamma': 0.0, 'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 4, 'n_estimators': 89, 'subsample': 0.7999999999999999}
+Best score: 0.360736
+
+Parameter grid: {'n_estimators': [89], 'learning_rate': [0.1], 'max_depth': [3], 'min_child_weight': [4], 'gamma': array([0. , 0.2, 0.4, 0.6, 0.8, 1. ]), 'subsample': array([0.5, 0.6, 0.7, 0.8, 0.9])}
+CV: 10
+Total number of fits: 300
+Start time: 2024-10-19 14:18:42.937919
+End time: 2024-10-19 14:18:59.082360
+Total run time: 0:00:16.144441
+Best parameters: {'gamma': 0.0, 'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 4, 'n_estimators': 89, 'subsample': 0.7999999999999999}
+Best score: 0.360736
+
+Parameter grid: {'n_estimators': [89], 'learning_rate': [0.1], 'max_depth': [3], 'min_child_weight': [4], 'gamma': array([0.  , 0.01, 0.02, 0.03, 0.04, 0.05, 0.06, 0.07, 0.08, 0.09, 0.1 ,
+       0.11, 0.12, 0.13, 0.14, 0.15, 0.16, 0.17, 0.18, 0.19, 0.2 ]), 'subsample': array([0.7 , 0.71, 0.72, 0.73, 0.74, 0.75, 0.76, 0.77, 0.78, 0.79, 0.8 ,
+       0.81, 0.82, 0.83, 0.84, 0.85, 0.86, 0.87, 0.88, 0.89, 0.9 , 0.91])}
+CV: 10
+Total number of fits: 4620
+Start time: 2024-10-19 14:19:55.893045
+End time: 2024-10-19 14:23:59.582621
+Total run time: 0:04:03.689576
+Best parameters: {'gamma': 0.0, 'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 4, 'n_estimators': 89, 'subsample': 0.78}
+Best score: 0.369347
+
+Parameter grid: {'n_estimators': [89], 'learning_rate': [0.1], 'max_depth': [3], 'min_child_weight': [4], 'gamma': [0.0], 'subsample': [0.78], 'colsample_bytree': array([0.5 , 0.51, 0.52, 0.53, 0.54, 0.55, 0.56, 0.57, 0.58, 0.59, 0.6 ,
+       0.61, 0.62, 0.63, 0.64, 0.65, 0.66, 0.67, 0.68, 0.69, 0.7 , 0.71,
+       0.72, 0.73, 0.74, 0.75, 0.76, 0.77, 0.78, 0.79, 0.8 , 0.81, 0.82,
+       0.83, 0.84, 0.85, 0.86, 0.87, 0.88, 0.89, 0.9 , 0.91, 0.92, 0.93,
+       0.94, 0.95, 0.96, 0.97, 0.98, 0.99, 1.  ]), 'reg_alpha': array([0.  , 0.05, 0.1 , 0.15, 0.2 , 0.25, 0.3 , 0.35, 0.4 , 0.45, 0.5 ])}
+CV: 20
+Total number of fits: 11220
+Start time: 2024-10-19 14:30:19.685229
+End time: 2024-10-19 14:43:01.643646
+Total run time: 0:12:41.958417
+Best parameters: {'colsample_bytree': 0.8000000000000003, 'gamma': 0.0, 'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 4, 'n_estimators': 89, 'reg_alpha': 0.05, 'subsample': 0.78}
+Best score: 0.000804
+
+
+Parameter grid: {'n_estimators': [89], 'learning_rate': [0.1], 'max_depth': [3], 'min_child_weight': [4], 'gamma': [0.0], 'subsample': [0.78], 'colsample_bytree': array([0.5 , 0.51, 0.52, 0.53, 0.54, 0.55, 0.56, 0.57, 0.58, 0.59, 0.6 ,
+       0.61, 0.62, 0.63, 0.64, 0.65, 0.66, 0.67, 0.68, 0.69, 0.7 , 0.71,
+       0.72, 0.73, 0.74, 0.75, 0.76, 0.77, 0.78, 0.79, 0.8 , 0.81, 0.82,
+       0.83, 0.84, 0.85, 0.86, 0.87, 0.88, 0.89, 0.9 , 0.91, 0.92, 0.93,
+       0.94, 0.95, 0.96, 0.97, 0.98, 0.99, 1.  ]), 'reg_alpha': array([0.  , 0.05, 0.1 , 0.15, 0.2 , 0.25, 0.3 , 0.35, 0.4 , 0.45, 0.5 ])}
+CV: 10
+Total number of fits: 5610
+Start time: 2024-10-19 14:57:01.673660
+End time: 2024-10-19 15:02:47.261336
+Total run time: 0:05:45.587676
+Best parameters: {'colsample_bytree': 0.8000000000000003, 'gamma': 0.0, 'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 4, 'n_estimators': 89, 'reg_alpha': 0.0, 'subsample': 0.78}
+Best score: 0.374414
+
+
+Parameter grid: {'n_estimators': [89], 'learning_rate': array([0.01, 0.02, 0.03, 0.04, 0.05, 0.06, 0.07, 0.08, 0.09, 0.1 , 0.11,
+       0.12, 0.13, 0.14, 0.15, 0.16, 0.17, 0.18, 0.19, 0.2 ]), 'max_depth': [3], 'min_child_weight': [4], 'gamma': [0.0], 'subsample': [0.78], 'colsample_bytree': [0.8000000000000003], 'reg_alpha': [0.0]}
+CV: 10
+Total number of fits: 200
+Start time: 2024-10-19 15:14:24.944446
+End time: 2024-10-19 15:14:35.642186
+Total run time: 0:00:10.697740
+Best parameters: {'colsample_bytree': 0.8000000000000003, 'gamma': 0.0, 'learning_rate': 0.09999999999999999, 'max_depth': 3, 'min_child_weight': 4, 'n_estimators': 89, 'reg_alpha': 0.0, 'subsample': 0.78}
+Best score: 0.374414
