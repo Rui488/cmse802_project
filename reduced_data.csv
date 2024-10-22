@@ -1,0 +1,398 @@
+﻿Plant Species,Functional Group,Molecular Weight (g/mol),pKa,log Kow, Exposure time  (hrs),RCF (L/g),SCF (L/g)  ,TF
+Lettuce,Carboxylate,214.1,-0.21,1.43,960,0.03,0.03,1
+Lettuce,Carboxylate,214.1,-0.21,1.43,960,0.009,0.02,2.22
+Lettuce,Carboxylate,214.1,-0.21,1.43,960,0.006,0.01,1.67
+Lettuce,Carboxylate,214.1,-0.21,1.43,960,0.006,0.01,1.67
+Lettuce,Carboxylate,214.1,-0.21,1.43,960,0.004,0.01,2.5
+Lettuce,Carboxylate,264.1,-0.8,1.35,960,0.019,0.009,0.47
+Lettuce,Carboxylate,264.1,-0.8,1.35,960,0.007,0.01,1.43
+Lettuce,Carboxylate,264.1,-0.8,1.35,960,0.004,0.003,0.75
+Lettuce,Carboxylate,264.1,-0.8,1.35,960,0.002,0.003,1.5
+Lettuce,Carboxylate,264.1,-0.8,1.35,960,0.002,0.003,1.5
+Lettuce,Carboxylate,314.1,0.2,2.85,960,0.14,0.04,0.29
+Lettuce,Carboxylate,314.1,0.2,2.85,960,0.01,0.002,0.2
+Lettuce,Carboxylate,314.1,0.2,2.85,960,0.003,0.001,0.33
+Lettuce,Carboxylate,314.1,0.2,2.85,960,0.002,0.001,0.5
+Lettuce,Carboxylate,314.1,0.2,2.85,960,0.002,0.001,0.5
+Lettuce,Carboxylate,364.1,0.81,2.05,960,0.24,0.043,0.18
+Lettuce,Carboxylate,364.1,0.81,2.05,960,0.01,0.002,0.2
+Lettuce,Carboxylate,364.1,0.81,2.05,960,0.004,0.0009,0.225
+Lettuce,Carboxylate,364.1,0.81,2.05,960,0.003,0.001,0.33
+Lettuce,Carboxylate,364.1,0.81,2.05,960,0.002,0.0009,0.45
+Lettuce,Carboxylate,414.1,3.15,3.1,960,0.31,0.024,0.077
+Lettuce,Carboxylate,414.1,3.15,3.1,960,0.04,0.002,0.05
+Lettuce,Carboxylate,414.1,3.15,3.1,960,0.01,0.001,0.1
+Lettuce,Carboxylate,414.1,3.15,3.1,960,0.01,0.0015,0.15
+Lettuce,Carboxylate,414.1,3.15,3.1,960,0.005,0.0015,0.3
+Lettuce,Carboxylate,414.07,0.23,3.54,960,0.43,0.03,0.07
+Lettuce,Carboxylate,414.07,0.23,3.54,960,0.11,0.004,0.04
+Lettuce,Carboxylate,414.07,0.23,3.54,960,0.06,0.002,0.033
+Lettuce,Carboxylate,414.07,0.23,3.54,960,0.06,0.002,0.033
+Lettuce,Carboxylate,414.07,0.23,3.54,960,0.02,0.0023,2
+Lettuce,Carboxylate,464.08,0.4,4.15,960,3.24,0.18,0.06
+Lettuce,Carboxylate,464.08,0.4,4.15,960,0.36,0.01,0.03
+Lettuce,Carboxylate,464.08,0.4,4.15,960,0.13,0.02,0.15
+Lettuce,Carboxylate,464.08,0.4,4.15,960,0.26,0.016,0.062
+Lettuce,Carboxylate,464.08,0.4,4.15,960,0.07,0.04,0.571
+Lettuce,Carboxylate,564.09,0.54,4,960,2.94,0.17,0.06
+Lettuce,Carboxylate,564.09,0.54,4,960,0.96,0.016,0.02
+Lettuce,Carboxylate,564.09,0.54,4,960,0.31,0.003,0.0097
+Lettuce,Carboxylate,564.09,0.54,4,960,0.8,0.006,0.0075
+Lettuce,Carboxylate,564.09,0.54,4,960,0.2,0.003,0.015
+Lettuce,Carboxylate,614.1,0.54,8.76,960,2.29,0.08,0.03
+Lettuce,Carboxylate,614.1,0.54,8.76,960,1.19,0.014,0.01
+Lettuce,Carboxylate,614.1,0.54,8.76,960,0.31,0.0017,0.005
+Lettuce,Carboxylate,614.1,0.54,8.76,960,0.43,0.004,0.009
+Lettuce,Carboxylate,614.1,0.54,8.76,960,0.03,0.001,0.033
+Lettuce,Carboxylate,664.1,0.54,8.76,960,1.29,0.112,0.09
+Lettuce,Carboxylate,664.1,0.54,8.76,960,0.71,0.015,0.021
+Lettuce,Carboxylate,664.1,0.54,8.76,960,0.23,0.003,0.013
+Lettuce,Carboxylate,664.1,0.54,8.76,960,0.35,0.002,0.0057
+Lettuce,Carboxylate,664.1,0.54,8.76,960,0.03,0.0004,0.013
+Lettuce,Carboxylate,714.11,0.54,5.1,960,2.12,0.094,0.044
+Lettuce,Carboxylate,714.11,0.54,5.1,960,0.59,0.005,0.008
+Lettuce,Carboxylate,714.11,0.54,5.1,960,0.35,0.001,0.003
+Lettuce,Carboxylate,714.11,0.54,5.1,960,0.32,0.0005,0.002
+Lettuce,Carboxylate,714.11,0.54,5.1,960,0.03,0.00008,0.003
+Lettuce,Sulfonate,300.1,-1.61,2.79,960,0.39,0.07,0.044
+Lettuce,Sulfonate,300.1,-1.61,2.79,960,0.01,0.0019,0.19
+Lettuce,Sulfonate,300.1,-1.61,2.79,960,0.004,0.0006,0.15
+Lettuce,Sulfonate,300.1,-1.61,2.79,960,0.002,0.0006,0.3
+Lettuce,Sulfonate,300.1,-1.61,2.79,960,0.002,0.0006,0.3
+Lettuce,Sulfonate,400.1,-1.64,2.2,960,0.94,0.165,0.18
+Lettuce,Sulfonate,400.1,-1.64,2.2,960,0.02,0.0013,0.065
+Lettuce,Sulfonate,400.1,-1.64,2.2,960,0.01,0.0006,0.06
+Lettuce,Sulfonate,400.1,-1.64,2.2,960,0.01,0.0005,0.05
+Lettuce,Sulfonate,400.1,-1.64,2.2,960,0.003,0.0006,0.2
+Cabbage,Carboxylate,214.1,-0.21,1.43,960,0.0025,0.0025,1
+Cabbage,Carboxylate,214.1,-0.21,1.43,960,0.065,0.0026,0.04
+Cabbage,Carboxylate,214.1,-0.21,1.43,960,0.005,0.0019,0.38
+Cabbage,Carboxylate,214.1,-0.21,1.43,960,0.006,0.003,0.5
+Cabbage,Carboxylate,264.1,-0.8,1.35,960,0.01,0.003,0.3
+Cabbage,Carboxylate,264.1,-0.8,1.35,960,0.006,0.002,0.333
+Cabbage,Carboxylate,264.1,-0.8,1.35,960,0.004,0.001,0.25
+Cabbage,Carboxylate,264.1,-0.8,1.35,960,0.006,0.002,0.333
+Cabbage,Carboxylate,314.1,0.2,2.85,960,0.018,0.0016,0.089
+Cabbage,Carboxylate,314.1,0.2,2.85,960,0.011,0.002,0.182
+Cabbage,Carboxylate,314.1,0.2,2.85,960,0.006,0.001,0.167
+Cabbage,Carboxylate,314.1,0.2,2.85,960,0.009,0.001,0.111
+Cabbage,Carboxylate,364.1,0.81,2.05,960,0.023,0.002,0.087
+Cabbage,Carboxylate,364.1,0.81,2.05,960,0.105,0.0009,0.009
+Cabbage,Carboxylate,364.1,0.81,2.05,960,0.009,0.0004,0.044
+Cabbage,Carboxylate,364.1,0.81,2.05,960,0.012,0.0006,0.05
+Cabbage,Carboxylate,414.1,3.15,3.1,960,0.08,0.003,0.0375
+Cabbage,Carboxylate,414.1,3.15,3.1,960,0.037,0.002,0.054
+Cabbage,Carboxylate,414.1,3.15,3.1,960,0.02,0.002,0.1
+Cabbage,Carboxylate,414.1,3.15,3.1,960,0.024,0.002,0.083
+Cabbage,Carboxylate,414.07,0.23,3.54,960,0.189,0.003,0.016
+Cabbage,Carboxylate,414.07,0.23,3.54,960,0.094,0.002,0.021
+Cabbage,Carboxylate,414.07,0.23,3.54,960,0.047,0.003,0.064
+Cabbage,Carboxylate,414.07,0.23,3.54,960,0.049,0.003,0.061
+Cabbage,Carboxylate,464.08,0.4,4.15,960,0.336,0.004,0.012
+Cabbage,Carboxylate,464.08,0.4,4.15,960,0.204,0.004,0.02
+Cabbage,Carboxylate,464.08,0.4,4.15,960,0.118,0.006,0.051
+Cabbage,Carboxylate,464.08,0.4,4.15,960,0.108,0.006,0.056
+Cabbage,Carboxylate,564.09,0.54,4,960,0.308,0.004,0.013
+Cabbage,Carboxylate,564.09,0.54,4,960,0.222,0.005,0.023
+Cabbage,Carboxylate,564.09,0.54,4,960,0.165,0.008,0.048
+Cabbage,Carboxylate,564.09,0.54,4,960,0.173,0.01,0.058
+Cabbage,Carboxylate,614.1,0.54,8.76,960,0.201,0.004,0.02
+Cabbage,Carboxylate,614.1,0.54,8.76,960,0.17,0.003,0.018
+Cabbage,Carboxylate,614.1,0.54,8.76,960,0.103,0.002,0.019
+Cabbage,Carboxylate,614.1,0.54,8.76,960,0.078,0.003,0.038
+Cabbage,Carboxylate,664.1,0.54,8.76,960,0.241,0.006,0.025
+Cabbage,Carboxylate,664.1,0.54,8.76,960,0.184,0.0005,0.003
+Cabbage,Carboxylate,664.1,0.54,8.76,960,0.168,0.0006,0.004
+Cabbage,Carboxylate,664.1,0.54,8.76,960,0.115,0.0006,0.005
+Cabbage,Carboxylate,714.11,0.54,5.1,960,0.226,0.006,0.027
+Cabbage,Carboxylate,714.11,0.54,5.1,960,0.263,0.0006,0.002
+Cabbage,Carboxylate,714.11,0.54,5.1,960,0.169,0.0001,0.001
+Cabbage,Carboxylate,714.11,0.54,5.1,960,0.119,0.00006,0.001
+Cabbage,Sulfonate,300.1,-1.61,2.79,960,0.015,0.0001,0.007
+Cabbage,Sulfonate,300.1,-1.61,2.79,960,0.02,0.0005,0.025
+Cabbage,Sulfonate,300.1,-1.61,2.79,960,0.012,0.0003,0.025
+Cabbage,Sulfonate,300.1,-1.61,2.79,960,0.018,0.0005,0.028
+Cabbage,Sulfonate,400.1,-1.64,2.2,960,0.046,0.00015,0.003
+Cabbage,Sulfonate,400.1,-1.64,2.2,960,0.038,0.0012,0.032
+Cabbage,Sulfonate,400.1,-1.64,2.2,960,0.021,0.0009,0.043
+Cabbage,Sulfonate,400.1,-1.64,2.2,960,0.027,0.001,0.037
+Zucchini,Carboxylate,214.1,-0.21,1.43,960,0.0013,0.0013,1
+Zucchini,Carboxylate,214.1,-0.21,1.43,960,0.002,0.00012,0.06
+Zucchini,Carboxylate,214.1,-0.21,1.43,960,0.002,0.0006,0.3
+Zucchini,Carboxylate,214.1,-0.21,1.43,960,0.002,0.0009,0.45
+Zucchini,Carboxylate,264.1,-0.8,1.35,960,0.006,0.00125,0.208
+Zucchini,Carboxylate,264.1,-0.8,1.35,960,0.004,0.00012,0.03
+Zucchini,Carboxylate,264.1,-0.8,1.35,960,0.005,0.0016,0.32
+Zucchini,Carboxylate,264.1,-0.8,1.35,960,0.003,0.002,0.67
+Zucchini,Carboxylate,314.1,0.2,2.85,960,0.007,0.007,1
+Zucchini,Carboxylate,314.1,0.2,2.85,960,0.006,0.006,1
+Zucchini,Carboxylate,314.1,0.2,2.85,960,0.008,0.0045,0.563
+Zucchini,Carboxylate,314.1,0.2,2.85,960,0.004,0.005,1.25
+Zucchini,Carboxylate,364.1,0.81,2.05,960,0.011,0.007,0.636
+Zucchini,Carboxylate,364.1,0.81,2.05,960,0.011,0.008,0.727
+Zucchini,Carboxylate,364.1,0.81,2.05,960,0.011,0.008,0.727
+Zucchini,Carboxylate,364.1,0.81,2.05,960,0.009,0.008,0.889
+Zucchini,Carboxylate,414.1,3.15,3.1,960,0.03,0.01,0.333
+Zucchini,Carboxylate,414.1,3.15,3.1,960,0.03,0.01,0.333
+Zucchini,Carboxylate,414.1,3.15,3.1,960,0.028,0.001,0.036
+Zucchini,Carboxylate,414.1,3.15,3.1,960,0.02,0.01,0.5
+Zucchini,Carboxylate,414.07,0.23,3.54,960,0.08,0.02,0.25
+Zucchini,Carboxylate,414.07,0.23,3.54,960,0.06,0.01,0.167
+Zucchini,Carboxylate,414.07,0.23,3.54,960,0.06,0.01,0.167
+Zucchini,Carboxylate,414.07,0.23,3.54,960,0.05,0.01,0.2
+Zucchini,Carboxylate,464.08,0.4,4.15,960,0.24,0.01,0.0417
+Zucchini,Carboxylate,464.08,0.4,4.15,960,0.13,0.008,0.062
+Zucchini,Carboxylate,464.08,0.4,4.15,960,0.11,0.009,0.082
+Zucchini,Carboxylate,464.08,0.4,4.15,960,0.09,0.01,0.111
+Zucchini,Carboxylate,564.09,0.54,4,960,0.35,0.008,0.023
+Zucchini,Carboxylate,564.09,0.54,4,960,0.24,0.006,0.025
+Zucchini,Carboxylate,564.09,0.54,4,960,0.3,0.007,0.0233
+Zucchini,Carboxylate,564.09,0.54,4,960,0.23,0.008,0.0348
+Zucchini,Carboxylate,614.1,0.54,8.76,960,0.32,0.004,0.0125
+Zucchini,Carboxylate,614.1,0.54,8.76,960,0.26,0.003,0.0115
+Zucchini,Carboxylate,614.1,0.54,8.76,960,0.15,0.002,0.0133
+Zucchini,Carboxylate,614.1,0.54,8.76,960,0.1,0.002,0.02
+Zucchini,Carboxylate,664.1,0.54,8.76,960,0.17,0.004,0.0235
+Zucchini,Carboxylate,664.1,0.54,8.76,960,0.16,0.0004,0.0025
+Zucchini,Carboxylate,664.1,0.54,8.76,960,0.14,0.0003,0.0021
+Zucchini,Carboxylate,664.1,0.54,8.76,960,0.11,0.0004,0.0036
+Zucchini,Carboxylate,714.11,0.54,5.1,960,0.61,0.006,0.0098
+Zucchini,Carboxylate,714.11,0.54,5.1,960,0.75,0.0006,0.0008
+Zucchini,Carboxylate,714.11,0.54,5.1,960,0.43,0.0002,0.0005
+Zucchini,Carboxylate,714.11,0.54,5.1,960,0.2,0.0001,0.0005
+Zucchini,Sulfonate,300.1,-1.61,2.79,960,0.01,0.00004,0.004
+Zucchini,Sulfonate,300.1,-1.61,2.79,960,0.01,0.001,0.1
+Zucchini,Sulfonate,300.1,-1.61,2.79,960,0.013,0.001,0.077
+Zucchini,Sulfonate,300.1,-1.61,2.79,960,0.009,0.001,0.111
+Zucchini,Sulfonate,400.1,-1.64,2.2,960,0.02,0.01,0.5
+Zucchini,Sulfonate,400.1,-1.64,2.2,960,0.03,0.005,0.167
+Zucchini,Sulfonate,400.1,-1.64,2.2,960,0.029,0.004,0.138
+Zucchini,Sulfonate,400.1,-1.64,2.2,960,0.015,0.003,0.2
+Tomato,Carboxylate,214.1,-0.21,1.43,960,0.0017,0.003,1.765
+Tomato,Carboxylate,214.1,-0.21,1.43,960,0.001,0.002,2
+Tomato,Carboxylate,214.1,-0.21,1.43,960,0.001,0.002,2
+Tomato,Carboxylate,214.1,-0.21,1.43,960,0.0005,0.001,2
+Tomato,Carboxylate,264.1,-0.8,1.35,960,0.002,0.002,1
+Tomato,Carboxylate,264.1,-0.8,1.35,960,0.001,0.002,2
+Tomato,Carboxylate,264.1,-0.8,1.35,960,0.001,0.001,1
+Tomato,Carboxylate,264.1,-0.8,1.35,960,0.001,0.001,1
+Tomato,Carboxylate,314.1,0.2,2.85,960,0.004,0.003,0.75
+Tomato,Carboxylate,314.1,0.2,2.85,960,0.0038,0.003,0.79
+Tomato,Carboxylate,314.1,0.2,2.85,960,0.002,0.004,2
+Tomato,Carboxylate,314.1,0.2,2.85,960,0.001,0.004,4
+Tomato,Carboxylate,364.1,0.81,2.05,960,0.004,0.0045,1.13
+Tomato,Carboxylate,364.1,0.81,2.05,960,0.0039,0.006,1.54
+Tomato,Carboxylate,364.1,0.81,2.05,960,0.003,0.004,1.33
+Tomato,Carboxylate,364.1,0.81,2.05,960,0.002,0.004,2
+Tomato,Carboxylate,414.1,3.15,3.1,960,0.007,0.009,1.29
+Tomato,Carboxylate,414.1,3.15,3.1,960,0.016,0.008,0.5
+Tomato,Carboxylate,414.1,3.15,3.1,960,0.01,0.007,0.7
+Tomato,Carboxylate,414.1,3.15,3.1,960,0.006,0.008,1.33
+Tomato,Carboxylate,414.07,0.54,3.54,960,0.045,0.009,0.2
+Tomato,Carboxylate,414.07,0.54,3.54,960,0.06,0.008,0.13
+Tomato,Carboxylate,414.07,0.54,3.54,960,0.05,0.009,0.18
+Tomato,Carboxylate,414.07,0.54,3.54,960,0.03,0.01,0.33
+Tomato,Carboxylate,464.08,0.54,4.15,960,0.15,0.017,0.11
+Tomato,Carboxylate,464.08,0.54,4.15,960,0.12,0.01,0.08
+Tomato,Carboxylate,464.08,0.54,4.15,960,0.11,0.01,0.09
+Tomato,Carboxylate,464.08,0.54,4.15,960,0.08,0.02,0.25
+Tomato,Carboxylate,564.09,0.54,4,960,0.18,0.01,0.06
+Tomato,Carboxylate,564.09,0.54,4,960,0.3,0.01,0.03
+Tomato,Carboxylate,564.09,0.54,4,960,0.22,0.01,0.05
+Tomato,Carboxylate,564.09,0.54,4,960,0.27,0.02,0.07
+Tomato,Carboxylate,614.1,0.54,8.76,960,0.22,0.01,0.05
+Tomato,Carboxylate,614.1,0.54,8.76,960,0.218,0.004,0.02
+Tomato,Carboxylate,614.1,0.54,8.76,960,0.112,0.006,0.05
+Tomato,Carboxylate,614.1,0.54,8.76,960,0.014,0.003,0.21
+Tomato,Carboxylate,664.1,0.54,8.76,960,0.15,0.007,0.05
+Tomato,Carboxylate,664.1,0.54,8.76,960,0.19,0.002,0.01
+Tomato,Carboxylate,664.1,0.54,8.76,960,0.12,0.0019,0.02
+Tomato,Carboxylate,664.1,0.54,8.76,960,0.019,0.001,0.05
+Tomato,Carboxylate,714.11,0.54,5.1,960,0.21,0.008,0.04
+Tomato,Carboxylate,714.11,0.54,5.1,960,0.22,0.0008,0
+Tomato,Carboxylate,714.11,0.54,5.1,960,0.13,0.0004,0
+Tomato,Carboxylate,714.11,0.54,5.1,960,0.02,0.0003,0.02
+Tomato,Sulfonate,300.1,-1.61,2.79,960,0.00005,0,0
+Tomato,Sulfonate,300.1,-1.61,2.79,960,0.007,0.003,0.43
+Tomato,Sulfonate,300.1,-1.61,2.79,960,0.005,0.001,0.2
+Tomato,Sulfonate,300.1,-1.61,2.79,960,0.004,0.002,0.5
+Tomato,Sulfonate,400.1,-1.64,2.2,960,0.01,0.004,0.4
+Tomato,Sulfonate,400.1,-1.64,2.2,960,0.02,0.005,0.25
+Tomato,Sulfonate,400.1,-1.64,2.2,960,0.01,0.005,0.5
+Tomato,Sulfonate,400.1,-1.64,2.2,960,0.007,0.003,0.43
+Lettuce,Carboxylate,214.1,-0.21,1.43,2232,0.00979,0.010848,1.1081
+Lettuce,Carboxylate,264.1,-0.8,1.35,2232,0.00806,0.005052,0.6268
+Lettuce,Carboxylate,314.1,0.2,2.85,2232,0.00265,0.002761,1.0419
+Lettuce,Carboxylate,364.1,0.81,2.05,2232,0.0031,0.002247,0.7248
+Lettuce,Carboxylate,414.1,3.15,3.1,2232,0.00425,0.001131,0.2661
+Lettuce,Carboxylate,414.07,0.23,3.54,2232,0.01702,0.001781,0.1046
+Lettuce,Carboxylate,464.08,0.4,4.15,2232,0.06664,0.001707,0.0256
+Lettuce,Carboxylate,564.09,0.54,4,2232,0.24528,0.001885,0.0077
+Lettuce,Carboxylate,614.1,0.54,8.76,2232,0.233096,0.0014939,0.0064
+Lettuce,Carboxylate,330.5,-0.73,5.41,2232,0.00113,0.001978,1.7504
+Lettuce,Carboxylate,496.076,-1.29,8.69,2232,0.00636,NaN,NaN
+Lettuce,Sulfonate,300.1,-1.61,2.79,2232,0.00235,0.003212,1.3668
+Lettuce,Sulfonate,400.1,-1.64,2.2,2232,0.009,0.002313,0.257
+Lettuce,Sulfonate,500.1,-1.64,5.61,2232,0.110875,0.003656,0.033
+Lettuce,Sulfonate,670.67,1.96,6.64,2232,0.3215,0.003213,0.01
+Lettuce,Sulfonate,428.16,1.23,3.73,2232,0.0113,0.0015277,0.1352
+Lettuce,Sulfonate,528.18,1.33,5.22,2232,0.08046,0.0035256,0.0438
+Chrysanthemum coronarium (Crown Daisy),Carboxylate,214.1,-0.21,1.43,2232,0.00276,0.047222,17.1094
+Chrysanthemum coronarium (Crown Daisy),Carboxylate,264.1,-0.8,1.35,2232,0.00237,0.034996,14.7662
+Chrysanthemum coronarium (Crown Daisy),Carboxylate,314.1,0.2,2.85,2232,0.000858,0.012347,14.3904
+Chrysanthemum coronarium (Crown Daisy),Carboxylate,364.1,0.81,2.05,2232,0.00087,0.007613,8.7506
+Chrysanthemum coronarium (Crown Daisy),Carboxylate,414.1,3.15,3.1,2232,0.00176,0.006776,3.85
+Chrysanthemum coronarium (Crown Daisy),Carboxylate,414.07,0.23,3.54,2232,0.01009,0.010695,1.06
+Chrysanthemum coronarium (Crown Daisy),Carboxylate,464.08,0.4,4.15,2232,0.03951,0.0128696,0.3257
+Chrysanthemum coronarium (Crown Daisy),Carboxylate,564.09,0.54,4,2232,0.1144,0.00754,0.0659
+Chrysanthemum coronarium (Crown Daisy),Carboxylate,614.1,0.54,8.76,2232,0.11966,0.000992,0.0083
+Chrysanthemum coronarium (Crown Daisy),Carboxylate,330.5,-0.73,5.41,2232,0.000607,0.004217,6.9473
+Chrysanthemum coronarium (Crown Daisy),Carboxylate,496.076,-1.29,8.69,2232,0.00626,0.0004623,0.0738
+Chrysanthemum coronarium (Crown Daisy),Sulfonate,300.1,-1.61,2.79,2232,,0.00792,0.1072
+Chrysanthemum coronarium (Crown Daisy),Sulfonate,400.1,-1.64,2.2,2232,0.004343,0.011402,2.6254
+Chrysanthemum coronarium (Crown Daisy),Sulfonate,500.1,-1.64,5.61,2232,0.04717,0.0327188,0.6936
+Chrysanthemum coronarium (Crown Daisy),Sulfonate,670.67,1.96,6.64,2232,0.22936,NaN,NaN
+Chrysanthemum coronarium (Crown Daisy),Sulfonate,428.16,1.23,3.73,2232,0.004583,0.011,2.4002
+Chrysanthemum coronarium (Crown Daisy),Sulfonate,528.18,1.33,5.22,2232,0.033744,0.029256,0.867
+Chinese Cabbage,Carboxylate,214.1,-0.21,1.43,2232,0.00219,0.021894,9.9973
+Chinese Cabbage,Carboxylate,264.1,-0.8,1.35,2232,0.000948,0.020274,21.3861
+Chinese Cabbage,Carboxylate,314.1,0.2,2.85,2232,0.000227,0.00688,30.3084
+Chinese Cabbage,Carboxylate,364.1,0.81,2.05,2232,0.000383,0.004355,11.3708
+Chinese Cabbage,Carboxylate,414.1,3.15,3.1,2232,0.000593,0.0030187,5.0906
+Chinese Cabbage,Carboxylate,414.07,0.23,3.54,2232,0.00577,0.0045238,0.784
+Chinese Cabbage,Carboxylate,464.08,0.4,4.15,2232,0.02803,0.005141,0.1834
+Chinese Cabbage,Carboxylate,564.09,0.54,4,2232,0.12022,0.001782,0.0148
+Chinese Cabbage,Carboxylate,614.1,0.54,8.76,2232,0.13341,NaN,NaN
+Chinese Cabbage,Carboxylate,330.5,-0.73,5.41,2232,0.000051,0.003348,65.6471
+Chinese Cabbage,Carboxylate,496.076,-1.29,8.69,2232,0.003558,0.0000979,0.0275
+Chinese Cabbage,Sulfonate,300.1,-1.61,2.79,2232,NaN,0.003364,NaN
+Chinese Cabbage,Sulfonate,400.1,-1.64,2.2,2232,0.00196,0.0009567,0.4881
+Chinese Cabbage,Sulfonate,500.1,-1.64,5.61,2232,0.03467,0.0039375,0.1136
+Chinese Cabbage,Sulfonate,670.67,1.96,6.64,2232,0.122553,NaN,NaN
+Chinese Cabbage,Sulfonate,428.16,1.23,3.73,2232,0.0015278,0.000793,0.519
+Chinese Cabbage,Sulfonate,528.18,1.33,5.22,2232,0.019679,0.0060897,0.3095
+Cucumber,Carboxylate,214.1,-0.21,1.43,2232,0.01192,0.075652,6.3466
+Cucumber,Carboxylate,264.1,-0.8,1.35,2232,0.00482,0.0309608,6.4234
+Cucumber,Carboxylate,314.1,0.2,2.85,2232,0.0021,0.0202386,9.6374
+Cucumber,Carboxylate,364.1,0.81,2.05,2232,0.0013,0.030688,23.6062
+Cucumber,Carboxylate,414.1,3.15,3.1,2232,0.00183,0.022673,12.3896
+Cucumber,Carboxylate,414.07,0.23,3.54,2232,0.01012,0.017543,1.7335
+Cucumber,Carboxylate,464.08,0.4,4.15,2232,0.03357,0.017522,0.522
+Cucumber,Carboxylate,564.09,0.54,4,2232,0.09553,0.015379,0.161
+Cucumber,Carboxylate,614.1,0.54,8.76,2232,0.06859,0.001687,0.0246
+Cucumber,Carboxylate,330.5,-0.73,5.41,2232,0.00182,0.010565,5.8049
+Cucumber,Carboxylate,496.076,-1.29,8.69,2232,NaN,0.001844,NaN
+Cucumber,Sulfonate,300.1,-1.61,2.79,2232,0.00383,0.015348,4.0073
+Cucumber,Sulfonate,400.1,-1.64,2.2,2232,0.004,0.014284,3.571
+Cucumber,Sulfonate,500.1,-1.64,5.61,2232,0.03581,0.011896,0.3322
+Cucumber,Sulfonate,670.67,1.96,6.64,2232,0.134894,NaN,NaN
+Cucumber,Sulfonate,428.16,1.23,3.73,2232,0.0094722,0.022556,2.3813
+Cucumber,Sulfonate,528.18,1.33,5.22,2232,0.042252,0.015167,0.359
+Lettuce,Carboxylate,264.1,-0.8,1.35,24,0.00113,0.0033,2.9204
+Lettuce,Carboxylate,264.1,-0.8,1.35,48,0.00265,0.00596,2.2491
+Lettuce,Carboxylate,264.1,-0.8,1.35,72,0.00287,0.00836,2.9129
+Lettuce,Carboxylate,264.1,-0.8,1.35,96,0.0052,0.01478,2.8423
+Lettuce,Carboxylate,264.1,-0.8,1.35,144,0.00336,0.01268,3.7738
+Lettuce,Carboxylate,364.1,0.81,2.05,24,0.00236,0.00158,0.6695
+Lettuce,Carboxylate,364.1,0.81,2.05,48,0.00354,0.00563,1.5904
+Lettuce,Carboxylate,364.1,0.81,2.05,72,0.00419,0.00848,2.0239
+Lettuce,Carboxylate,364.1,0.81,2.05,96,0.00541,0.00912,1.6858
+Lettuce,Carboxylate,364.1,0.81,2.05,144,0.00641,0.01146,1.7878
+Lettuce,Carboxylate,414.1,3.15,3.1,24,0.00423,0.00024,0.0567
+Lettuce,Carboxylate,414.1,3.15,3.1,48,0.00657,0.00038,0.0578
+Lettuce,Carboxylate,414.1,3.15,3.1,72,0.00619,0.00046,0.0743
+Lettuce,Carboxylate,414.1,3.15,3.1,96,0.00868,0.00086,0.0991
+Lettuce,Carboxylate,414.1,3.15,3.1,144,0.0101,0.00105,0.104
+Lettuce,Carboxylate,414.07,0.23,3.54,24,0.00675,0.0001,0.0148
+Lettuce,Carboxylate,414.07,0.23,3.54,48,0.00903,0.00009,0.01
+Lettuce,Carboxylate,414.07,0.23,3.54,72,0.0099,0.00012,0.0121
+Lettuce,Carboxylate,414.07,0.23,3.54,96,0.01529,0.00038,0.0249
+Lettuce,Carboxylate,414.07,0.23,3.54,144,0.01311,0.00036,0.0275
+Lettuce,Carboxylate,464.08,0.4,4.15,24,0.01463,0.00013,0.0089
+Lettuce,Carboxylate,464.08,0.4,4.15,48,0.01902,0.00026,0.0137
+Lettuce,Carboxylate,464.08,0.4,4.15,72,0.01905,0.00015,0.0079
+Lettuce,Carboxylate,464.08,0.4,4.15,96,0.02839,0.00026,0.0092
+Lettuce,Carboxylate,464.08,0.4,4.15,144,0.02961,0.00031,0.0105
+Lettuce,Carboxylate,614.1,0.54,8.76,24,0.02134,0.00002,0.0009
+Lettuce,Carboxylate,614.1,0.54,8.76,48,0.03003,0.00009,0.003
+Lettuce,Carboxylate,614.1,0.54,8.76,72,0.04016,0.00018,0.0045
+Lettuce,Carboxylate,614.1,0.54,8.76,96,0.03581,0.00022,0.0061
+Lettuce,Carboxylate,614.1,0.54,8.76,144,0.07405,0.00031,0.0042
+Lettuce,Sulfonate,300.1,-1.61,2.79,24,0.00104,0.00241,2.3173
+Lettuce,Sulfonate,300.1,-1.61,2.79,48,0.0022,0.00426,1.9364
+Lettuce,Sulfonate,300.1,-1.61,2.79,72,0.00352,0.00612,1.7386
+Lettuce,Sulfonate,300.1,-1.61,2.79,96,0.00251,0.00658,2.6215
+Lettuce,Sulfonate,300.1,-1.61,2.79,144,0.00377,0.00943,2.5013
+Lettuce,Sulfonate,400.1,-1.64,2.2,24,0.00382,0.00193,0.5052
+Lettuce,Sulfonate,400.1,-1.64,2.2,48,0.0068,0.00439,0.6456
+Lettuce,Sulfonate,400.1,-1.64,2.2,72,0.0123,0.00741,0.6024
+Lettuce,Sulfonate,400.1,-1.64,2.2,96,0.01345,0.00718,0.5338
+Lettuce,Sulfonate,400.1,-1.64,2.2,144,0.01458,0.00817,0.5604
+Lettuce,Sulfonate,500.1,-1.64,5.61,24,0.01209,0.00027,0.0223
+Lettuce,Sulfonate,500.1,-1.64,5.61,48,0.01404,0.00034,0.0242
+Lettuce,Sulfonate,500.1,-1.64,5.61,72,0.02061,0.00046,0.0223
+Lettuce,Sulfonate,500.1,-1.64,5.61,96,0.01971,0.00063,0.032
+Lettuce,Sulfonate,500.1,-1.64,5.61,144,0.0231,0.00091,0.0394
+Lettuce,Carboxylate,214.1,-0.21,1.43,1080,0.25,0.17,0.68
+Lettuce,Carboxylate,264.1,-0.8,1.35,1080,0.13,0.063,0.4846
+Lettuce,Carboxylate,314.1,0.2,2.85,1080,0.015,0.0097,0.6467
+Lettuce,Carboxylate,364.1,0.81,2.05,1080,0.04,0.0056,0.14
+Lettuce,Carboxylate,414.1,3.15,3.1,1080,0.17,0.0094,0.0553
+Lettuce,Carboxylate,414.07,0.23,3.54,1080,0.91,0.014,0.0154
+Lettuce,Carboxylate,464.08,0.4,4.15,1080,1.1,0.0045,0.0041
+Lettuce,Carboxylate,564.09,0.54,4,1080,1.5,0.0041,0.0027
+Lettuce,Carboxylate,614.1,0.54,8.76,1080,0.79,0,0
+Lettuce,Carboxylate,664.1,0.54,8.76,1080,0.5,0,0
+Lettuce,Carboxylate,714.11,0.54,5.1,1080,0.23,0,0
+Lettuce,Sulfonate,300.1,-1.61,2.79,1080,0.0055,0.0018,0.3273
+Lettuce,Sulfonate,400.1,-1.64,2.2,1080,0.14,0.0028,0.02
+Lettuce,Sulfonate,500.1,-1.64,5.61,1080,1.79,0.0042,0.0023
+Spinach,Carboxylate,214.1,-0.21,1.43,1320,0.012,0.053,4.4167
+Spinach,Carboxylate,264.1,-0.8,1.35,1320,0.0077,0.058,7.5325
+Spinach,Carboxylate,314.1,0.2,2.85,1320,0.0046,0.021,4.5652
+Spinach,Carboxylate,364.1,0.81,2.05,1320,0.011,0.018,1.6364
+Spinach,Carboxylate,414.1,3.15,3.1,1320,0.034,0.012,0.3529
+Spinach,Carboxylate,414.07,0.23,3.54,1320,0.13,0.0096,0.0738
+Spinach,Carboxylate,464.08,0.4,4.15,1320,0.26,0.0021,0.0081
+Spinach,Carboxylate,564.09,0.54,4,1320,1,0,0
+Spinach,Carboxylate,614.1,0.54,8.76,1320,1.5,0,0
+Spinach,Carboxylate,664.1,0.54,8.76,1320,0.79,0,0
+Spinach,Carboxylate,714.11,0.54,5.1,1320,0.28,0,0
+Spinach,Sulfonate,300.1,-1.61,2.79,1320,0.0017,0.0064,3.7647
+Spinach,Sulfonate,400.1,-1.64,2.2,1320,0.036,0.0041,0.1139
+Spinach,Sulfonate,500.1,-1.64,5.61,1320,0.3,0.0023,0.0077
+Lettuce,Carboxylate,414.1,3.15,3.1,672,0.1274,0.1231,0.9662
+Lettuce,Carboxylate,414.1,3.15,3.1,672,0.1088,0.1075,0.9881
+Lettuce,Carboxylate,414.1,3.15,3.1,672,0.1274,0.1254,0.9843
+Lettuce,Carboxylate,414.1,3.15,3.1,672,0.0945,0.0947,1.002
+Lettuce,Sulfonate,500.1,-1.64,5.61,672,0.2761,0.2776,1.0054
+Lettuce,Sulfonate,500.1,-1.64,5.61,672,0.223,0.2239,1.004
+Lettuce,Sulfonate,500.1,-1.64,5.61,672,0.1792,0.1791,0.9994
+Lettuce,Sulfonate,500.1,-1.64,5.61,672,0.1237,0.1238,1.0008
+Red Chicory,Carboxylate,214.1,-0.21,1.43,912,0.0019,0.0069,3.6905
+Red Chicory,Carboxylate,214.1,-0.21,1.43,912,0.0015,0.0056,3.788
+Red Chicory,Carboxylate,214.1,-0.21,1.43,912,0.0017,0.007,4.1952
+Red Chicory,Carboxylate,264.1,-0.8,1.35,912,0.0015,0.0072,4.8751
+Red Chicory,Carboxylate,264.1,-0.8,1.35,912,0.0014,0.0052,3.611
+Red Chicory,Carboxylate,264.1,-0.8,1.35,912,0.0013,0.0062,4.7701
+Red Chicory,Sulfonate,300.1,-1.61,2.79,912,0.0024,0.0046,1.9346
+Red Chicory,Sulfonate,300.1,-1.61,2.79,912,0.0028,0.0034,1.2131
+Red Chicory,Sulfonate,300.1,-1.61,2.79,912,0.0025,0.0047,1.8609
+Red Chicory,Carboxylate,314.1,0.2,2.85,912,0.0024,0.0071,3.0051
+Red Chicory,Carboxylate,314.1,0.2,2.85,912,0.0022,0.004,1.8642
+Red Chicory,Carboxylate,314.1,0.2,2.85,912,0.0017,0.0046,2.6389
+Red Chicory,Carboxylate,364.1,0.81,2.05,912,0.004,0.0041,1.0121
+Red Chicory,Carboxylate,364.1,0.81,2.05,912,0.0043,0.0063,1.459
+Red Chicory,Carboxylate,364.1,0.81,2.05,912,0.0029,0.0031,1.0545
+Red Chicory,Carboxylate,414.1,3.15,3.1,912,0.0076,0.0037,0.485
+Red Chicory,Carboxylate,414.1,3.15,3.1,912,0.0115,0.0029,0.2511
+Red Chicory,Carboxylate,414.1,3.15,3.1,912,0.008,0.0026,0.319
+Red Chicory,Carboxylate,414.07,0.23,3.54,912,0.0214,0.0036,0.1687
+Red Chicory,Carboxylate,414.07,0.23,3.54,912,0.0306,0.003,0.0974
+Red Chicory,Carboxylate,414.07,0.23,3.54,912,0.0275,0.0025,0.0913
+Red Chicory,Carboxylate,464.08,0.4,4.15,912,0.0795,0.0032,0.0405
+Red Chicory,Carboxylate,464.08,0.4,4.15,912,0.1116,0.0029,0.0262
+Red Chicory,Carboxylate,464.08,0.4,4.15,912,0.0921,0.0026,0.0286
+Red Chicory,Sulfonate,500.1,-1.64,5.61,912,0.0489,0.0025,0.0519
+Red Chicory,Sulfonate,500.1,-1.64,5.61,912,0.0627,0.0023,0.0373
+Red Chicory,Sulfonate,500.1,-1.64,5.61,912,0.0554,0.0022,0.0396
