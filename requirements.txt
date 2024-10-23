@@ -1,1 +1,27 @@
+--Core Scientific and Mathematical Libraries
+NumPy: Efficient numerical computations, especially with arrays and matrices.
+Pandas: Data structures and data analysis tools, great for data cleaning and preprocessing.
+SciPy: Scientific computations, including statistics, linear algebra, and signal processing.
+Matplotlib: Creating static, interactive, and animated visualizations.
+Seaborn: Advanced visualization library built on Matplotlib.
+
+--Machine Learning Libraries
+scikit-learn: Variety of machine learning algorithms for model training, evaluation, and data preprocessing.
+XGBoost: Efficient machine learning algorithm implementation, great for tabular data.
+TensorFlow or PyTorch: Deep learning frameworks for building and training complex neural network models, including PINNs.  
+Data Preprocessing and Feature Engineering
+Scikit-learn: Also provides tools for data preprocessing and feature selection.
+Polynomial Features: For generating polynomial and interaction features, extendable with scikit-learn.
+
+--Model Persistence
+Joblib: Serializes Python objects, especially large numpy arrays, often used for saving and loading models.
+Python Pickle: Python's built-in serialization library for persisting Python objects.
+
+--Jupyter Notebook
+Jupyter: Provides an interactive computing environment, ideal for project development and documentation.
+
+--Optional Libraries for Advanced Features
+Keras: High-level interface for TensorFlow, simplifies the building and training of deep learning models.
+Plotly: For creating interactive charts, enhancing the interactivity of data visualization.
+These dependencies cover the spectrum of tasks involved in a typical machine learning project, from data manipulation and visualization to model development and persistence. Including them in a requirements.txt file ensures that others can replicate your environment easily.
 
