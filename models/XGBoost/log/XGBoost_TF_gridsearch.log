@@ -1,0 +1,19 @@
+
+Parameter grid: {'n_estimators': range(10, 160, 10), 'learning_rate': [0.1], 'max_depth': range(1, 21, 2), 'min_child_weight': range(1, 12, 2)}
+CV: 10
+Total number of fits: 9000
+Start time: 2024-11-30 11:03:30.920512
+End time: 2024-11-30 11:10:01.965273
+Total run time: 0:06:31.044761
+Best parameters: {'learning_rate': 0.1, 'max_depth': 13, 'min_child_weight': 1, 'n_estimators': 20}
+Best score: 0.302582
+
+Parameter grid: {'n_estimators': range(10, 31, 1), 'learning_rate': [0.1], 'max_depth': range(11, 16, 1), 'min_child_weight': range(1, 4, 1)}
+CV: 10
+Total number of fits: 3150
+Start time: 2024-11-30 11:14:08.912251
+End time: 2024-11-30 11:16:10.679236
+Total run time: 0:02:01.766985
+Best parameters: {'learning_rate': 0.1, 'max_depth': 11, 'min_child_weight': 2, 'n_estimators': 27}
+Best score: 0.321484
+
